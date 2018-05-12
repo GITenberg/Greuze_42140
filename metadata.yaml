@@ -1,0 +1,26 @@
+_repo: Greuze_42140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42140-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Macklin, Alys Eyre
+    gutenberg_agent_id: '41545'
+    url: http://www.gutenberg.org/2009/agents/41545
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Greuze, Jean-Baptiste, 1725-1805'
+- !lcc 'ND'
+title: Greuze
+url: http://www.gutenberg.org/ebooks/42140
